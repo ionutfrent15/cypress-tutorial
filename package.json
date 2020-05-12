@@ -1,0 +1,22 @@
+{
+  "name": "cypress-tutorial",
+  "version": "1.0.0",
+  "description": "cyprss tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionutfrent15/cypress-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ionutfrent15/cypress-tutorial/issues"
+  },
+  "homepage": "https://github.com/ionutfrent15/cypress-tutorial#readme",
+  "devDependencies": {
+    "mochawesome": "^6.1.1"
+  }
+}
