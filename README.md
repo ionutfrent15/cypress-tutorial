@@ -9,4 +9,4 @@ add to cypress.json:
 {  
   "reporter": "mochawesome"  
 }  
-npx cypress run --spec "test.js"  
+npx cypress run --spec "cypress/integration/test.spec.js"  
