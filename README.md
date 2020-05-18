@@ -1,9 +1,9 @@
 # cypress-tutorial
-# install
+# install - cypress
 npm init  
 npm install cypress --save-dev  
 npx cypress open  
-# mochawasome
+# report - mochawasome
 npm install mochawasome  
 add to cypress.json:  
 {  
